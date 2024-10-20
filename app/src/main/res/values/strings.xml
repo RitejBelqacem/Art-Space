@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="nom1">la tour d horloge tunis</string>
+    <string name="n1">Tunisie</string>
+
+    <string name="nom2">la tour Eiffel </string>
+    <string name="n2">France</string>
+
+    <string name="nom3">les pyramides de gizeh</string>
+    <string name="n3">Egypte</string>
+
+    <string name="nom4">Colisée de rome</string>
+    <string name="n4">Italie</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
